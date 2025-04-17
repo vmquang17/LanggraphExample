@@ -1,0 +1,6 @@
+openai:
+  base_url: "https://api.openai.com/v1"
+  api_key: ""
+  model: "gpt-4o"
+  temperature: 0
+  provider: openai
