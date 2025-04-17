@@ -36,7 +36,7 @@ MANIFEST
 *.manifest
 *.spec
 
-# Installer logs
+# Installer logssk-proj-p5nkVjL_DRanN-9iufUcmr4X-DWXIG1h1gVM3F60SA6X_Ef43-BRsYNt_9SxMt_LAJItwjbZ7sT3BlbkFJmtOnp0GxFAdT6sgC2zGToW6E9WKOT2dHe0F6AJ55b0XeXdpouzkZ0OzSoG3-sZhaBqOXfHVZQA
 pip-log.txt
 pip-delete-this-directory.txt
 
@@ -149,4 +149,3 @@ tests/
 lab/
 data/
 venv/
-settings/*.yaml
